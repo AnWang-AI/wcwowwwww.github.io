@@ -53,7 +53,7 @@
 </ol>
 </li>
 </ol>
-<h3 id="五-第七、八节"><a href="#五-第七、八节" class="headerlink" title="五. 第七、八节"></a>五. 第七、八节</h3><ol>
+<h3 id="五-第九、十节"><a href="#五-第九、十节" class="headerlink" title="五. 第九、十节"></a>五. 第九、十节</h3><ol>
 <li><p>图的存储（邻接表和邻接矩阵）</p>
 </li>
 <li><p>图的遍历（广度优先和深度优先）</p>
@@ -63,25 +63,25 @@
 <li><p>最短路径算法</p>
 </li>
 </ol>
-<h3 id="六-第九、十节"><a href="#六-第九、十节" class="headerlink" title="六. 第九、十节"></a>六. 第九、十节</h3><ol>
+<h3 id="六-第十一、十二节"><a href="#六-第十一、十二节" class="headerlink" title="六. 第十一、十二节"></a>六. 第十一、十二节</h3><ol>
 <li><p>中间复习+习题课</p>
 </li>
 <li><p>排序算法（冒泡排序，插入排序，希尔排序，归并排序）</p>
 </li>
 </ol>
-<h3 id="七-第十一、十二节"><a href="#七-第十一、十二节" class="headerlink" title="七. 第十一、十二节"></a>七. 第十一、十二节</h3><ol>
+<h3 id="七-第十三、十四节"><a href="#七-第十三、十四节" class="headerlink" title="七. 第十三、十四节"></a>七. 第十三、十四节</h3><ol>
 <li><p>排序算法（快速排序）</p>
 </li>
 <li><p>排序算法（堆排序）</p>
 </li>
 </ol>
-<h3 id="八-第十三，十四节"><a href="#八-第十三，十四节" class="headerlink" title="八. 第十三，十四节"></a>八. 第十三，十四节</h3><ol>
+<h3 id="八-第十五，十六节"><a href="#八-第十五，十六节" class="headerlink" title="八. 第十五，十六节"></a>八. 第十五，十六节</h3><ol>
 <li><p>散列表</p>
 </li>
 <li><p>动态规划</p>
 </li>
 </ol>
-<h3 id="九-第十五、十六节"><a href="#九-第十五、十六节" class="headerlink" title="九. 第十五、十六节"></a>九. 第十五、十六节</h3><ol>
+<h3 id="九-第十七、十八节"><a href="#九-第十七、十八节" class="headerlink" title="九. 第十七、十八节"></a>九. 第十七、十八节</h3><ol>
 <li><p>串的匹配（KMP算法）</p>
 </li>
 <li><p>总复习</p>
