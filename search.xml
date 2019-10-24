@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Data-Struture</title>
+    <url>/2019/10/24/Data-Struture/</url>
+    <content><![CDATA[<h1 id="数据结构（基础）课程安排"><a href="#数据结构（基础）课程安排" class="headerlink" title="数据结构（基础）课程安排"></a>数据结构（基础）课程安排</h1><h3 id="一-第一、二节"><a href="#一-第一、二节" class="headerlink" title="一.  第一、二节"></a>一.  第一、二节</h3><ol>
+<li><p>自我介绍</p>
+</li>
+<li><p>课程介绍</p>
+</li>
+<li><p>C语言语法（重点：指针，结构）</p>
+</li>
+<li><p>数据结构的基本概念</p>
+</li>
+</ol><h3 id="二-第三、四节"><a href="#二-第三、四节" class="headerlink" title="二. 第三、四节"></a>二. 第三、四节</h3><ol>
+<li><p>算法效率的评价</p>
+</li>
+<li><p>线性表（顺序存储和链式存储）</p>
+</li>
+<li><p>堆栈</p>
+</li>
+</ol><h3 id="三-第五、六节"><a href="#三-第五、六节" class="headerlink" title="三. 第五、六节"></a>三. 第五、六节</h3><ol>
+<li><p>队列</p>
+</li>
+<li><p>二叉树</p>
+<ol>
+<li>二叉树的定义</li>
+<li>二叉树的遍历（先序，中序，后序，层）</li>
+</ol>
+</li>
+<li><p>二叉搜索树</p>
+<ol>
+<li>二叉搜索树的概念</li>
+<li>二叉搜索树的操作</li>
+</ol>
+</li>
+</ol><a id="more"></a>
+
+
+<h3 id="四-第七，八节"><a href="#四-第七，八节" class="headerlink" title="四. 第七，八节"></a>四. 第七，八节</h3><ol>
+<li><p>AVL树</p>
+<ol>
+<li>AVL树的定义</li>
+<li>AVL树的操作</li>
+</ol>
+</li>
+<li><p>B树</p>
+<ol>
+<li><p>B树的定义</p>
+</li>
+<li><p>B树的操作</p>
+</li>
+</ol>
+</li>
+</ol>
+<h3 id="五-第七、八节"><a href="#五-第七、八节" class="headerlink" title="五. 第七、八节"></a>五. 第七、八节</h3><ol>
+<li><p>图的存储（邻接表和邻接矩阵）</p>
+</li>
+<li><p>图的遍历（广度优先和深度优先）</p>
+</li>
+<li><p>最小生成树</p>
+</li>
+<li><p>最短路径算法</p>
+</li>
+</ol>
+<h3 id="六-第九、十节"><a href="#六-第九、十节" class="headerlink" title="六. 第九、十节"></a>六. 第九、十节</h3><ol>
+<li><p>中间复习+习题课</p>
+</li>
+<li><p>排序算法（冒泡排序，插入排序，希尔排序，归并排序）</p>
+</li>
+</ol>
+<h3 id="七-第十一、十二节"><a href="#七-第十一、十二节" class="headerlink" title="七. 第十一、十二节"></a>七. 第十一、十二节</h3><ol>
+<li><p>排序算法（快速排序）</p>
+</li>
+<li><p>排序算法（堆排序）</p>
+</li>
+</ol>
+<h3 id="八-第十三，十四节"><a href="#八-第十三，十四节" class="headerlink" title="八. 第十三，十四节"></a>八. 第十三，十四节</h3><ol>
+<li><p>散列表</p>
+</li>
+<li><p>动态规划</p>
+</li>
+</ol>
+<h3 id="九-第十五、十六节"><a href="#九-第十五、十六节" class="headerlink" title="九. 第十五、十六节"></a>九. 第十五、十六节</h3><ol>
+<li><p>串的匹配（KMP算法）</p>
+</li>
+<li><p>总复习</p>
+</li>
+</ol>
+]]></content>
+  </entry>
+</search>
